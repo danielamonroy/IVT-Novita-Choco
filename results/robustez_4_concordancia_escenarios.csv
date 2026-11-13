@@ -1,0 +1,7 @@
+﻿escenario;celdas comparadas;% celdas misma clase;kappa ponderado;% Alta base;% Alta escenario;% de Alta base que sigue Alta;Jaccard Alta
+Intervalos iguales;1050763;76.61;0.731;37.29;45.65;95.04;0.746
+Radio 250 m;1050763;90.74;0.895;37.29;34.61;88.30;0.845
+Radio 1000 m;1050763;92.10;0.911;37.29;38.06;94.38;0.876
+Sin deforestación;1050763;87.49;0.859;37.29;37.44;89.73;0.811
+Sin asentamientos;1050763;93.47;0.926;37.29;36.21;94.01;0.912
+Umbral población 1;1050763;99.76;0.997;37.29;37.25;99.74;0.996

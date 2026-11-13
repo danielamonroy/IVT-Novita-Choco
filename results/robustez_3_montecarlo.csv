@@ -1,0 +1,13 @@
+﻿medida;valor
+sorteos;1000
+concentración Dirichlet;60
+variación relativa media de los pesos sorteados (%);"titulos 18.6 ; solicitudes 21.0 ; defor 29.2 ; hidrico 31.6 ; asent 41.7"
+% área Alta (cortes base): media;37.63
+% área Alta: percentil 2,5;34.77
+% área Alta: percentil 97,5;39.87
+% área Alta en la clasificación base;37.63
+% celdas con P(Alta) >= 0,90;29.83
+% celdas con P(Alta) <= 0,10;54.94
+% celdas con 0,10 < P(Alta) < 0,90 (sensibles al peso);15.22
+% celdas cuya clase base se repite en >= 50 % de los sorteos;99.62
+% celdas cuya clase base se repite en >= 90 % de los sorteos;73.73

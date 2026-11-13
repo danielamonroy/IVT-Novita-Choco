@@ -1,0 +1,19 @@
+﻿escenario;fila;se clasifica 1;se clasifica 2;se clasifica 3
+Intervalos iguales;base clase 1;65.72;34.27;0.01
+Intervalos iguales;base clase 2;3.48;65.60;30.92
+Intervalos iguales;base clase 3;0.00;4.96;95.04
+Radio 250 m;base clase 1;96.44;3.56;0.00
+Radio 250 m;base clase 2;6.53;88.36;5.11
+Radio 250 m;base clase 3;0.00;11.70;88.30
+Radio 1000 m;base clase 1;94.17;5.83;0.00
+Radio 1000 m;base clase 2;3.64;87.66;8.70
+Radio 1000 m;base clase 3;0.00;5.62;94.38
+Sin deforestación;base clase 1;91.40;8.60;0.00
+Sin deforestación;base clase 2;6.49;81.45;12.06
+Sin deforestación;base clase 3;0.00;10.27;89.73
+Sin asentamientos;base clase 1;95.77;4.23;0.00
+Sin asentamientos;base clase 2;5.74;90.77;3.49
+Sin asentamientos;base clase 3;0.00;5.99;94.01
+Umbral población 1;base clase 1;99.88;0.12;0.00
+Umbral población 1;base clase 2;0.12;99.70;0.19
+Umbral población 1;base clase 3;0.00;0.26;99.74

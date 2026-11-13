@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usa este software, cítelo así."
+title: "IVT Nóvita: Índice de Vulnerabilidad Territorial de los territorios colectivos NARP de Nóvita (Chocó) frente a la minería formal de oro"
+version: 1.0.0
+authors:
+  - family-names: Monroy Santos
+    given-names: Aylyn Daniela
+  - family-names: Diaz Doncel
+    given-names: Nily Johana
+license: MIT
