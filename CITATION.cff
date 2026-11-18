@@ -3,8 +3,14 @@ message: "Si usa este software, cítelo así."
 title: "IVT Nóvita: Índice de Vulnerabilidad Territorial de los territorios colectivos NARP de Nóvita (Chocó) frente a la minería formal de oro"
 version: 1.0.0
 authors:
-  - family-names: Monroy Santos
-    given-names: Aylyn Daniela
   - family-names: Diaz Doncel
     given-names: Nily Johana
+    orcid: "https://orcid.org/0009-0006-6759-540X"
+  - family-names: Monroy Santos
+    given-names: Aylyn Daniela
+    orcid: "https://orcid.org/0009-0003-1899-2490"
+  - family-names: Gualdrón Alfonso
+    given-names: Diego Fernando
+    orcid: "https://orcid.org/0000-0002-1086-4801"
 license: MIT
+repository-code: "https://github.com/danielamonroy/IVT-Novita-Choco"
